@@ -1,3 +1,5 @@
 # 忽略文件
 README.md
+index.js
+demo.css
 test/
